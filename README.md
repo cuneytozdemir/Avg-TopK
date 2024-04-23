@@ -1,4 +1,4 @@
-**Avg-TopK Pooling for Convolutional Neural Networks**
+**Avg-topk: A new pooling method for convolutional neural network**
 
 This repository contains the implementation of the Avg-TopK pooling method proposed by Özdemir (2023) for Convolutional Neural Networks (CNNs). The implementation of the Avg-TopK pooling layer can be found in the `AvgTopKPooling.py` file.
 
